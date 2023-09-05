@@ -11,4 +11,3 @@ variable "kms_arn" {}
 variable "port_no" {
   default = "27017"
 }
-variable "bastian_cidr" {}
